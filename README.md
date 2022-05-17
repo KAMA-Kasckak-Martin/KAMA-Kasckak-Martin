@@ -1,10 +1,14 @@
 # Hi, I’m Martin👋 
 
-I’m interested in ⚓ Tattoo 🕷, Cars nad motorcycles🚗🏍🏎 , PC building🔞🖥
+I’m interested in ⚓ Tattoo 🕷, Cars nad motorcycles🚗🏍🏎 , PC building🔞🖥 Gaming✨
 
 I’m currently learning HTML,CSS,Javascript on  https://coding-bootcamps.eu
 
 E-mail 📩📩 m.kascak93@gmail.com
+
+
+
+
 
 
 <!---
