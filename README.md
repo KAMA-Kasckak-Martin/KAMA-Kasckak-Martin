@@ -2,7 +2,9 @@
 
 I’m interested in ⚓ Tattoo 🕷, Cars nad motorcycles🚗🏍🏎 , PC building🔞🖥 Gaming✨
 
-I’m currently learning HTML,CSS,Javascript,Vue.js with  https://coding-bootcamps.eu
+HTML,CSS,Javascript,Vue.js with  https://coding-bootcamps.eu
+
+curently learning Java at https://www.neuefische.de
 
 E-mail 📩📩 m.kascak93@gmail.com
 
