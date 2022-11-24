@@ -1,6 +1,5 @@
 # Hi, I’m Martin👋 
 
-I’m interested in ⚓ Tattoo 🕷, Cars nad motorcycles🚗🏍🏎 , PC building🔞🖥 Gaming✨
 
 HTML,CSS,Javascript,Vue.js with  https://coding-bootcamps.eu
 
